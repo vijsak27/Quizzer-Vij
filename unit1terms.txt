@@ -30,4 +30,4 @@ double pow(double, double) ] Returns the value of the first parameter raised to 
 double sqrt(double) ] Returns the positive square root of a double value.
 double random() ] Returns a double value greater than or equal to 0.0 and less than 1.0 (not including 1.0!).
 int)(Math.random()*range) + min]moves the random number into a range starting from a minimum number. The range is the (max number - min number + 1). For example, to get a number in the range of 5 to 10, use the range 10-5+1 = 6 and the min number 5: (int)(Math.random()*6) + 5).
-(MCQ)How many days in a week?]:a.1:b.2:c.3:d.7]d
+(MCQ)What is it called when their is more than one contructor in a class?]:a.Overshadowed contructor:b.multi-constructor:c.Error! This is not allowed:d.overloaded constructor]d
